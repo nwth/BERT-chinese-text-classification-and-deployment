@@ -3,7 +3,7 @@
 
 ### 准备环境工作
 
-- **操作系统**：Linux
+- **操作系统**：Ubuntu
 
 - **TensorFlow Version**：1.13.1，动态图模式
 - **GPU**：我的服务器是Tesla P4 8G GPU，文档后面有显存不足的解决方案
